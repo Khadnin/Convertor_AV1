@@ -7,7 +7,6 @@ item_list = os.listdir(folder_path)
 # Creation of full patch for files/items
 items_with_paths = [os.path.join(folder_path, item) for item in item_list]
 
-# Seznamy pro uložení všech názvů složek a souborů
 # Lists to save all names of folders and files
 folders_list = []
 files_list = []
