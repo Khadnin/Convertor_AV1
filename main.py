@@ -153,4 +153,5 @@ for item in items_with_paths:
     # Run of ffmpeg command for conversion
     subprocess.run(command)
 
+
 os.remove("data.json")
