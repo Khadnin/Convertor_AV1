@@ -1,0 +1,33 @@
+# Python virtual environment
+env/
+venv/
+av1env/
+.env
+.venv
+.av1env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log soubory
+*.log
+
+# OS soubory
+.DS_Store
+Thumbs.db
